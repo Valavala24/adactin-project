@@ -1,4 +1,4 @@
-#Java Basics Project
+#Adactin Project
 
 *Simple Java Basic Concepts*
 
